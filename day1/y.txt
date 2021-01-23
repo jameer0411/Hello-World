@@ -1,0 +1,7 @@
+hello everyone
+hello world'' >>y.txt
+
+
+ls
+
+hello
